@@ -7,7 +7,7 @@ This gem provides access to functions that will produce a random sample based on
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'enumerable_weighted_sample'
+gem 'enumerable_weighted_sample', '~>0.1.1'
 ```
 
 And then execute:
